@@ -1,0 +1,14 @@
+1. Solution not found: 4001ms
+2. Solution was found after: 18774873 flips, taking 2519ms
+3. Solution not found: 4138ms
+4. Solution not found: 4300ms
+5. Solution was found after: 9969517 flips, taking 1406ms
+6. Solution not found: 4162ms
+7. Solution was found after: 2892028 flips, taking 401ms
+8. Solution not found: 4200ms
+9. Solution was found after: 27685516 flips, taking 3878ms
+10. Solution not found: 4244ms
+11. Solution not found: 4303ms
+12. Solution not found: 4221ms
+13. Solution not found: 4341ms
+14. Solution was found after: 11814812 flips, taking 1657ms

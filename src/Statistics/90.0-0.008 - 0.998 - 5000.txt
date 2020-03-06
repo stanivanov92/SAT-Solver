@@ -1,0 +1,15 @@
+1. Solution was found after: 70245768 flips, taking 7876ms
+2. Solution was found after: 52654785 flips, taking 5905ms
+3. Solution was found after: 50888277 flips, taking 5681ms
+4. Solution was found after: 15259271 flips, taking 1674ms
+5. Solution was found after: 50970069 flips, taking 5687ms
+6. Solution was found after: 11389111 flips, taking 1181ms
+7. Solution was found after: 119385104 flips, taking 13507ms
+8. Solution was found after: 16587528 flips, taking 1860ms
+9. Solution was found after: 52329237 flips, taking 5907ms
+10. Solution was found after: 68364018 flips, taking 7704ms
+11. Solution was found after: 33119471 flips, taking 3745ms
+12. Solution was found after: 83875832 flips, taking 9488ms
+13. Solution was found after: 48668558 flips, taking 5572ms
+14. Solution was found after: 15653213 flips, taking 1795ms
+15. Solution was found after: 82798318 flips, taking 9686ms
