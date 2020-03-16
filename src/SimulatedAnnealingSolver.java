@@ -44,7 +44,7 @@ public class SimulatedAnnealingSolver {
         }
 
         long time = (System.nanoTime() - start) / 10000000;
-        System.out.println("We could not find a satisfiable assignment: " + time + "  " + temp + " " + decayRate + "\n------------------------------------------------------------------------------------------------");
+        System.out.println("\nWe could not find a satisfiable assignment: " + time + "  " + temp + " " + decayRate + "\n------------------------------------------------------------------------------------------------");
         return "Solution not found: " + time + "ms\n" ;
     }
 
@@ -65,7 +65,7 @@ public class SimulatedAnnealingSolver {
                        flip(randomVar);
                }
                else {
-                   System.out.println("We have successfully found a solution after: " + flips);
+                   System.out.println("\nWe have successfully found a solution after: " + flips);
                    return true;
                }
            }

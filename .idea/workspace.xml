@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81469846-d82c-4f44-a0e9-96b4a765e071" name="Default Changelist" comment="" />
+    <list default="true" id="81469846-d82c-4f44-a0e9-96b4a765e071" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +99,8 @@
       <workItem from="1581165120093" duration="32124000" />
       <workItem from="1581247949881" duration="6821000" />
       <workItem from="1582235234800" duration="8000" />
-      <workItem from="1583496520855" duration="4267000" />
+      <workItem from="1583496520855" duration="4277000" />
+      <workItem from="1584367422450" duration="254000" />
     </task>
     <servers />
   </component>
@@ -149,10 +152,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="716" y="88" width="1024" height="837" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1580757494341" />
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1583496525704">
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1584367422564">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583496525704" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1584367422564" />
     <state x="657" y="195" width="662" height="715" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581194076108">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>

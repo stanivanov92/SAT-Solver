@@ -29,8 +29,8 @@ public class Main {
         SimulatedAnnealingSolver saSolver = new SimulatedAnnealingSolver(parser.getVariablesList(),parser.getClausesList());
         double maxTemp = 95;
         double minTemp = 0.003;
-        double decayRate = 0.982;
-        int iterationsPerCycle = 5000;
+        double decayRate = 0.988;
+        int iterationsPerCycle = 7000;
       //  for( int j = 0; j < 10; j++){
         System.out.println(projectDirectory);
         File fileLocation = new File(projectDirectory + "/src/Statistics");
@@ -41,6 +41,7 @@ public class Main {
             //minTemp -= 0.0019;
             DataWriter dataWriter = new DataWriter(statsFile.getAbsolutePath());
             for (int i = 0; i < 10; i++) {
+                System.out.print("Searching for a solution ...");
                 dataWriter.writeText(i + 1 + ". " + saSolver.launchSolver(20, maxTemp, minTemp, decayRate, iterationsPerCycle));
             }
             dataWriter.closeStream();
