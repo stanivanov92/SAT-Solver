@@ -9,6 +9,7 @@ public class SimulatedAnnealingSolver {
     private boolean[] lstVariablesTruthValues;
     private long flips = 0;
     private int iterations = 0;
+    private int attempts = 0;
     private long start;
     private double maxTemp;
     private double temp;
@@ -32,19 +33,20 @@ public class SimulatedAnnealingSolver {
         this.iterations = iterations;
         temp = maxTemp;
         generateRandomAssignments();
+        attempts = 0;
         for(int i = 0; i < tries; i++){
             clearCurrentAssignment();
             generateRandomAssignments();
-            temp = maxTemp;
+            temp = this.maxTemp;
             if(startFlipping()) {
                 long time = (System.nanoTime() - start) / 10000000;
-                System.out.println("It took: " + time + "\n------------------------------------------------------------------------------------------------");
-                return "Solution was found after: " + flips + " flips," + " taking " + time + "ms\n";
+                System.out.println("It took: " + time + "   ms\n------------------------------------------------");
+                return "Solution was found after: " + flips + " flips," + " taking " + time + "ms" + "ratio: " + (double) flips/attempts + " attempts: " + attempts + "\n";
             }
         }
 
         long time = (System.nanoTime() - start) / 10000000;
-        System.out.println("\nWe could not find a satisfiable assignment: " + time + "  " + temp + " " + decayRate + "\n------------------------------------------------------------------------------------------------");
+        System.out.println("\nWe could not find a satisfiable assignment: " + time + "  " + temp + " " + decayRate + "\n----------------------------------------------------------------------------------------------------------------------------------------------");
         return "Solution not found: " + time + "ms\n" ;
     }
 
@@ -60,16 +62,17 @@ public class SimulatedAnnealingSolver {
        while (temp > minTemp){
            int intIt = iterations;
            for (int k = 1; k <= intIt; k++) {
+               attempts++;
                if (!checkSatisfied()) {
                    randomVar = getRandomVariable(hashMapVariables.size()) + 1;
                        flip(randomVar);
                }
                else {
-                   System.out.println("\nWe have successfully found a solution after: " + flips);
+                   System.out.println("\nWe have successfully found a solution after: " + flips + " flips with ratio: " + (double) flips/attempts + " and attempts: " + attempts + " at temp: " + temp);
                    return true;
                }
            }
-           intIt *= 0.999;
+
            temp = temp * decayRate;
        }
        return false;

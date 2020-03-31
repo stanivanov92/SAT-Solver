@@ -2,7 +2,70 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81469846-d82c-4f44-a0e9-96b4a765e071" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/AutomatedTesting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SimulatedAnnealingSolver.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimulatedAnnealingSolver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SimulatedAnnealingSolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimulatedAnnealingSolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/42.0-0.0029000000000000007 - 0.95 - 20000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/44.0-0.0048000000000000004 - 0.95 - 20000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/45.0-0.011450000000000002 - 0.95 - 20000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/45.0-0.013000000000000001 - 0.97 - 10000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/46.0-0.0067 - 0.95 - 20000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/47.0-0.015 - 0.97 - 10000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/48.0-0.0086 - 0.95 - 20000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/50.0-0.001 - 0.98 - 19000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/50.0-0.0105 - 0.95 - 20000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/50.0-0.014100000000000001 - 0.95 - 20000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/50.0-0.016 - 0.97 - 10000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/52.0-0.012400000000000001 - 0.95 - 20000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/52.0-0.018 - 0.97 - 10000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/54.0-0.014300000000000002 - 0.95 - 20000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/55.0-0.01675 - 0.95 - 20000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/55.0-0.019 - 0.97 - 10000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/56.0-0.016200000000000003 - 0.95 - 20000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/57.0-0.020999999999999998 - 0.97 - 10000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/58.0-0.0181 - 0.95 - 20000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/60.0-0.0194 - 0.95 - 20000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/60.0-0.02 - 0.95 - 20000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/60.0-0.022 - 0.97 - 10000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/60.0-0.022200000000000004 - 0.98 - 10000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/62.0-0.023999999999999997 - 0.97 - 10000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/65.0-0.02205 - 0.95 - 20000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/65.0-0.024800000000000003 - 0.98 - 10000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/65.0-0.024999999999999998 - 0.97 - 10000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/67.0-0.026999999999999996 - 0.97 - 10000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/70.0-0.005 - 0.96 - 20000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/70.0-0.0247 - 0.95 - 20000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/70.0-0.0274 - 0.98 - 10000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/70.0-0.027999999999999997 - 0.97 - 10000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/72.0-0.029999999999999995 - 0.97 - 10000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/75.0-0.001 - 0.93 - 22000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/75.0-0.003 - 0.94 - 22000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/75.0-0.02735 - 0.95 - 20000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/75.0-0.03 - 0.98 - 10000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/75.0-0.030999999999999996 - 0.97 - 10000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/77.0-0.032999999999999995 - 0.97 - 10000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/80.0-0.005 - 0.94 - 22000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/80.0-0.03 - 0.95 - 20000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/80.0-0.033999999999999996 - 0.97 - 10000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/82.0-0.036 - 0.97 - 10000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/85.0-0.037 - 0.97 - 10000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/90.0-0.004 - 0.995 - 10000.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/90.0-0.008 - 0.998 - 5000.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/90.0-0.04 - 0.97 - 10000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/95.0-0.003 - 0.982 - 5000.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/95.0-0.003 - 0.988 - 7000.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Data-55-004-096.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Data-60-002-093.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Data-66-75-001-0992-3500.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Data-70-003-094.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Data-75-001-0992-3500.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Data-75-001-0995-2500.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Data-80-004-093.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Data-90-002-095.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Data-90-004-094.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +90,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -100,7 +165,11 @@
       <workItem from="1581247949881" duration="6821000" />
       <workItem from="1582235234800" duration="8000" />
       <workItem from="1583496520855" duration="4277000" />
-      <workItem from="1584367422450" duration="254000" />
+      <workItem from="1584367422450" duration="24108000" />
+      <workItem from="1584558910925" duration="4191000" />
+      <workItem from="1584744531502" duration="6000" />
+      <workItem from="1585141040553" duration="211000" />
+      <workItem from="1585428463313" duration="7312000" />
     </task>
     <servers />
   </component>
@@ -108,6 +177,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="583" y="214" width="800" height="677" key="#Updates" timestamp="1585141104477">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="583" y="214" width="800" height="677" key="#Updates/67.27.1853.1053@67.27.1853.1053" timestamp="1585141104477" />
     <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579964101324">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -152,10 +225,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="716" y="88" width="1024" height="837" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1580757494341" />
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1584367422564">
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1585141042433">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1584367422564" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1585141042433" />
     <state x="657" y="195" width="662" height="715" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581194076108">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -164,10 +237,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="726" y="316" width="524" height="472" key="extract.method.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581170799468" />
-    <state x="382" y="207" width="1372" height="796" key="new project wizard" timestamp="1580757906115">
+    <state x="382" y="207" width="1372" height="796" key="new project wizard" timestamp="1585141246122">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="382" y="207" width="1372" height="796" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1580757906115" />
+    <state x="382" y="207" width="1372" height="796" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1585141246122" />
     <state x="657" y="253" key="run.anything.popup" timestamp="1583496996293">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
