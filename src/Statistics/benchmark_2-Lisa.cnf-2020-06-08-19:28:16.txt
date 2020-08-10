@@ -1,0 +1,443 @@
+Variables: 125
+Clauses: 300
+File name: benchmark_2-Lisa.cnf
+Max temperature is: 0.3
+Min temperature: 0.001
+Decay rate: 0.0
+Iterations: 5000
+Max_Tries: 10
+Concurrency: true
+Available threads: 8
+Pure literal: true
+Timeout: 300000 ms
+ 
+The time taken was: 20ms
+----------------------------------------------------------------------------------------------------------
+Variable 1 is: 0
+Variable 2 is: 1
+Variable 3 is: 1
+Variable 4 is: 0
+Variable 5 is: 0
+Variable 6 is: 1
+Variable 7 is: 1
+Variable 8 is: 1
+Variable 9 is: 1
+Variable 10 is: 0
+Variable 11 is: 0
+Variable 12 is: 0
+Variable 13 is: 1
+Variable 14 is: 0
+Variable 15 is: 1
+Variable 16 is: 0
+Variable 17 is: 0
+Variable 18 is: 0
+Variable 19 is: 0
+Variable 20 is: 0
+Variable 21 is: 1
+Variable 22 is: 0
+Variable 23 is: 0
+Variable 24 is: 1
+Variable 25 is: 1
+Variable 26 is: 0
+Variable 27 is: 0
+Variable 28 is: 0
+Variable 29 is: 0
+Variable 30 is: 1
+Variable 31 is: 1
+Variable 32 is: 1
+Variable 33 is: 1
+Variable 34 is: 1
+Variable 35 is: 0
+Variable 36 is: 1
+Variable 37 is: 0
+Variable 38 is: 1
+Variable 39 is: 0
+Variable 40 is: 0
+Variable 41 is: 0
+Variable 42 is: 0
+Variable 43 is: 1
+Variable 44 is: 1
+Variable 45 is: 1
+Variable 46 is: 1
+Variable 47 is: 1
+Variable 48 is: 0
+Variable 49 is: 0
+Variable 50 is: 1
+Variable 51 is: 1
+Variable 52 is: 1
+Variable 53 is: 0
+Variable 54 is: 1
+Variable 55 is: 1
+Variable 56 is: 0
+Variable 57 is: 1
+Variable 58 is: 0
+Variable 59 is: 1
+Variable 60 is: 0
+Variable 61 is: 0
+Variable 62 is: 1
+Variable 63 is: 0
+Variable 64 is: 0
+Variable 65 is: 0
+Variable 66 is: 1
+Variable 67 is: 1
+Variable 68 is: 1
+Variable 69 is: 1
+Variable 70 is: 1
+Variable 71 is: 1
+Variable 72 is: 0
+Variable 73 is: 0
+Variable 74 is: 1
+Variable 75 is: 0
+Variable 76 is: 1
+Variable 77 is: 0
+Variable 78 is: 0
+Variable 79 is: 0
+Variable 80 is: 0
+Variable 81 is: 1
+Variable 82 is: 0
+Variable 83 is: 0
+Variable 84 is: 0
+Variable 85 is: 0
+Variable 86 is: 0
+Variable 87 is: 0
+Variable 88 is: 1
+Variable 89 is: 0
+Variable 90 is: 0
+Variable 91 is: 0
+Variable 92 is: 0
+Variable 93 is: 0
+Variable 94 is: 0
+Variable 95 is: 0
+Variable 96 is: 1
+Variable 97 is: 0
+Variable 98 is: 0
+Variable 99 is: 0
+Variable 100 is: 0
+Variable 101 is: 0
+Variable 102 is: 1
+Variable 103 is: 0
+Variable 104 is: 0
+Variable 105 is: 1
+Variable 106 is: 0
+Variable 107 is: 1
+Variable 108 is: 1
+Variable 109 is: 0
+Variable 110 is: 1
+Variable 111 is: 0
+Variable 112 is: 1
+Variable 113 is: 1
+Variable 114 is: 1
+Variable 115 is: 1
+Variable 116 is: 0
+Variable 117 is: 1
+Variable 118 is: 1
+Variable 119 is: 0
+Variable 120 is: 1
+Variable 121 is: 1
+Variable 122 is: 0
+Variable 123 is: 0
+Variable 124 is: 1
+Variable 125 is: 1
+
+
+---------------------------------
+Clause 1 has (-2 -94 -108  Number of satisfying literals: 1)
+Clause 2 has (58 -83 53 84  Number of satisfying literals: 1)
+Clause 3 has (-33 -17 -30  Number of satisfying literals: 1)
+Clause 4 has (-94 -74 -109  Number of satisfying literals: 2)
+Clause 5 has (-85 -17 22 -52  Number of satisfying literals: 2)
+Clause 6 has (-108 67 7 43  Number of satisfying literals: 3)
+Clause 7 has (-62 -25 -27  Number of satisfying literals: 1)
+Clause 8 has (25 -65 -54  Number of satisfying literals: 2)
+Clause 9 has (-8 -76 67 26  Number of satisfying literals: 1)
+Clause 10 has (56 99 32  Number of satisfying literals: 1)
+Clause 11 has (-89 39 88  Number of satisfying literals: 2)
+Clause 12 has (-99 103 55 -90  Number of satisfying literals: 3)
+Clause 13 has (-105 95 -94  Number of satisfying literals: 1)
+Clause 14 has (-15 -124 43  Number of satisfying literals: 1)
+Clause 15 has (63 -106 -81 58  Number of satisfying literals: 1)
+Clause 16 has (57 54 88 -63  Number of satisfying literals: 4)
+Clause 17 has (63 -111 83  Number of satisfying literals: 1)
+Clause 18 has (15 -41 34  Number of satisfying literals: 3)
+Clause 19 has (-59 74 -19  Number of satisfying literals: 2)
+Clause 20 has (-123 108 75  Number of satisfying literals: 2)
+Clause 21 has (19 76 -86 -18  Number of satisfying literals: 3)
+Clause 22 has (56 81 72 -66  Number of satisfying literals: 1)
+Clause 23 has (-120 82 -40 -118  Number of satisfying literals: 1)
+Clause 24 has (-27 16 70 19  Number of satisfying literals: 2)
+Clause 25 has (-93 -91 -114  Number of satisfying literals: 2)
+Clause 26 has (-44 33 -79 58  Number of satisfying literals: 2)
+Clause 27 has (-18 5 -43 -15  Number of satisfying literals: 1)
+Clause 28 has (-7 31 -111 95  Number of satisfying literals: 2)
+Clause 29 has (-11 -104 -119 79  Number of satisfying literals: 3)
+Clause 30 has (-105 72 -26  Number of satisfying literals: 1)
+Clause 31 has (96 -11 75 -76  Number of satisfying literals: 2)
+Clause 32 has (103 108 -50 -93  Number of satisfying literals: 2)
+Clause 33 has (36 117 67 -110  Number of satisfying literals: 3)
+Clause 34 has (-99 -121 -45  Number of satisfying literals: 1)
+Clause 35 has (9 22 79 95  Number of satisfying literals: 1)
+Clause 36 has (-13 118 -35 -121  Number of satisfying literals: 2)
+Clause 37 has (-111 -51 -9 121  Number of satisfying literals: 2)
+Clause 38 has (96 -36 -24 -13  Number of satisfying literals: 1)
+Clause 39 has (96 99 -13  Number of satisfying literals: 1)
+Clause 40 has (73 -53 -114  Number of satisfying literals: 1)
+Clause 41 has (68 114 -37  Number of satisfying literals: 3)
+Clause 42 has (-46 -66 119 50  Number of satisfying literals: 1)
+Clause 43 has (-98 20 -61 -25  Number of satisfying literals: 2)
+Clause 44 has (-17 -52 80 -3  Number of satisfying literals: 1)
+Clause 45 has (-113 18 -43 112  Number of satisfying literals: 1)
+Clause 46 has (-28 86 24 -33  Number of satisfying literals: 2)
+Clause 47 has (113 18 -88  Number of satisfying literals: 1)
+Clause 48 has (103 67 116 -51  Number of satisfying literals: 1)
+Clause 49 has (-84 95 17 31  Number of satisfying literals: 2)
+Clause 50 has (28 51 -22 86  Number of satisfying literals: 2)
+Clause 51 has (89 -100 -46  Number of satisfying literals: 1)
+Clause 52 has (-56 41 50  Number of satisfying literals: 2)
+Clause 53 has (-73 21 18  Number of satisfying literals: 2)
+Clause 54 has (104 -66 -109  Number of satisfying literals: 1)
+Clause 55 has (9 116 -65 101  Number of satisfying literals: 2)
+Clause 56 has (29 -79 59 18  Number of satisfying literals: 2)
+Clause 57 has (-82 -7 95  Number of satisfying literals: 1)
+Clause 58 has (-56 -3 83 -62  Number of satisfying literals: 1)
+Clause 59 has (82 -49 68  Number of satisfying literals: 2)
+Clause 60 has (-12 9 61 122  Number of satisfying literals: 2)
+Clause 61 has (-105 3 109  Number of satisfying literals: 1)
+Clause 62 has (-14 20 -100  Number of satisfying literals: 2)
+Clause 63 has (96 113 74 -17  Number of satisfying literals: 4)
+Clause 64 has (-82 78 74 -107  Number of satisfying literals: 2)
+Clause 65 has (34 -18 24 24  Number of satisfying literals: 4)
+Clause 66 has (-71 -45 -40 -30  Number of satisfying literals: 1)
+Clause 67 has (-89 -11 85  Number of satisfying literals: 2)
+Clause 68 has (40 -43 92 88  Number of satisfying literals: 1)
+Clause 69 has (-56 85 94  Number of satisfying literals: 1)
+Clause 70 has (-67 104 51  Number of satisfying literals: 1)
+Clause 71 has (-14 -60 68  Number of satisfying literals: 3)
+Clause 72 has (-68 -82 -73 11  Number of satisfying literals: 2)
+Clause 73 has (-37 18 52  Number of satisfying literals: 2)
+Clause 74 has (3 -55 89  Number of satisfying literals: 1)
+Clause 75 has (21 17 108  Number of satisfying literals: 2)
+Clause 76 has (-117 46 -95  Number of satisfying literals: 2)
+Clause 77 has (-6 -111 98  Number of satisfying literals: 1)
+Clause 78 has (117 35 -15  Number of satisfying literals: 1)
+Clause 79 has (1 115 123 -88  Number of satisfying literals: 1)
+Clause 80 has (6 -85 47  Number of satisfying literals: 3)
+Clause 81 has (-58 -13 -107 -75  Number of satisfying literals: 2)
+Clause 82 has (-97 97 -84  Number of satisfying literals: 2)
+Clause 83 has (14 65 -64 26  Number of satisfying literals: 1)
+Clause 84 has (72 7 -87  Number of satisfying literals: 2)
+Clause 85 has (76 75 46  Number of satisfying literals: 2)
+Clause 86 has (64 99 113 -41  Number of satisfying literals: 2)
+Clause 87 has (-11 -102 -46 -93  Number of satisfying literals: 2)
+Clause 88 has (-52 89 -87  Number of satisfying literals: 1)
+Clause 89 has (7 29 120  Number of satisfying literals: 2)
+Clause 90 has (-1 41 47  Number of satisfying literals: 2)
+Clause 91 has (-44 -2 122 45  Number of satisfying literals: 1)
+Clause 92 has (-62 -84 24 49  Number of satisfying literals: 2)
+Clause 93 has (-64 -2 96  Number of satisfying literals: 2)
+Clause 94 has (-43 59 6  Number of satisfying literals: 2)
+Clause 95 has (-20 -22 -88  Number of satisfying literals: 2)
+Clause 96 has (-66 107 -53  Number of satisfying literals: 2)
+Clause 97 has (72 45 -4  Number of satisfying literals: 2)
+Clause 98 has (-24 -77 76 40  Number of satisfying literals: 2)
+Clause 99 has (-122 15 25  Number of satisfying literals: 3)
+Clause 100 has (72 -69 -94 4  Number of satisfying literals: 1)
+Clause 101 has (-16 5 11 -2  Number of satisfying literals: 1)
+Clause 102 has (-64 -2 -60  Number of satisfying literals: 2)
+Clause 103 has (-33 80 71 -27  Number of satisfying literals: 2)
+Clause 104 has (75 10 -122 105  Number of satisfying literals: 2)
+Clause 105 has (64 -34 -42 -52  Number of satisfying literals: 1)
+Clause 106 has (56 -87 -38 -5  Number of satisfying literals: 2)
+Clause 107 has (-25 -107 -112 -18  Number of satisfying literals: 1)
+Clause 108 has (-10 57 -87 86  Number of satisfying literals: 3)
+Clause 109 has (-96 -23 -49  Number of satisfying literals: 2)
+Clause 110 has (45 -56 98  Number of satisfying literals: 2)
+Clause 111 has (82 -36 59  Number of satisfying literals: 1)
+Clause 112 has (-121 31 55  Number of satisfying literals: 2)
+Clause 113 has (115 -71 122 116  Number of satisfying literals: 1)
+Clause 114 has (21 47 83  Number of satisfying literals: 2)
+Clause 115 has (4 95 31 -97  Number of satisfying literals: 2)
+Clause 116 has (-44 45 -72  Number of satisfying literals: 2)
+Clause 117 has (42 10 -85 113  Number of satisfying literals: 2)
+Clause 118 has (58 91 -105 47  Number of satisfying literals: 1)
+Clause 119 has (-108 -122 99 -116  Number of satisfying literals: 2)
+Clause 120 has (-84 29 17 81  Number of satisfying literals: 2)
+Clause 121 has (19 2 52  Number of satisfying literals: 2)
+Clause 122 has (-11 -124 115  Number of satisfying literals: 2)
+Clause 123 has (-77 -41 48  Number of satisfying literals: 2)
+Clause 124 has (-60 -32 57 47  Number of satisfying literals: 3)
+Clause 125 has (-23 34 -78  Number of satisfying literals: 3)
+Clause 126 has (-40 25 52  Number of satisfying literals: 3)
+Clause 127 has (29 -84 -101 38  Number of satisfying literals: 3)
+Clause 128 has (70 74 111 109  Number of satisfying literals: 2)
+Clause 129 has (-69 -19 -6  Number of satisfying literals: 1)
+Clause 130 has (94 75 13 8  Number of satisfying literals: 2)
+Clause 131 has (-95 -110 120  Number of satisfying literals: 2)
+Clause 132 has (-75 -59 -125  Number of satisfying literals: 1)
+Clause 133 has (-86 -82 -99  Number of satisfying literals: 3)
+Clause 134 has (122 3 85 -7  Number of satisfying literals: 1)
+Clause 135 has (-42 95 -112  Number of satisfying literals: 1)
+Clause 136 has (-96 72 17 -29  Number of satisfying literals: 1)
+Clause 137 has (99 62 -124 -43  Number of satisfying literals: 1)
+Clause 138 has (-19 42 -30  Number of satisfying literals: 1)
+Clause 139 has (-9 125 -2 83  Number of satisfying literals: 1)
+Clause 140 has (-49 -61 -27 88  Number of satisfying literals: 4)
+Clause 141 has (-50 -119 13 1  Number of satisfying literals: 2)
+Clause 142 has (120 -12 -107 -91  Number of satisfying literals: 3)
+Clause 143 has (-107 7 101 -34  Number of satisfying literals: 1)
+Clause 144 has (-79 97 -75 -70  Number of satisfying literals: 2)
+Clause 145 has (-23 -115 -18  Number of satisfying literals: 2)
+Clause 146 has (-27 118 77  Number of satisfying literals: 2)
+Clause 147 has (-76 -51 71 102  Number of satisfying literals: 2)
+Clause 148 has (-72 89 10 -36  Number of satisfying literals: 1)
+Clause 149 has (-2 8 -1 91  Number of satisfying literals: 2)
+Clause 150 has (-57 105 -19 -60  Number of satisfying literals: 3)
+Clause 151 has (-64 99 40  Number of satisfying literals: 1)
+Clause 152 has (-93 79 102 -47  Number of satisfying literals: 2)
+Clause 153 has (89 39 -99 6  Number of satisfying literals: 2)
+Clause 154 has (102 59 -32  Number of satisfying literals: 2)
+Clause 155 has (124 57 -102  Number of satisfying literals: 2)
+Clause 156 has (41 74 113 27  Number of satisfying literals: 2)
+Clause 157 has (22 97 12 -90  Number of satisfying literals: 1)
+Clause 158 has (105 80 102  Number of satisfying literals: 2)
+Clause 159 has (-15 -94 -2  Number of satisfying literals: 1)
+Clause 160 has (-47 68 -88  Number of satisfying literals: 1)
+Clause 161 has (-121 55 -12  Number of satisfying literals: 2)
+Clause 162 has (-36 -78 -29  Number of satisfying literals: 2)
+Clause 163 has (-111 80 55 69  Number of satisfying literals: 3)
+Clause 164 has (-5 34 -40 -109  Number of satisfying literals: 4)
+Clause 165 has (82 8 -112  Number of satisfying literals: 1)
+Clause 166 has (-66 57 3 25  Number of satisfying literals: 3)
+Clause 167 has (-120 55 -61  Number of satisfying literals: 2)
+Clause 168 has (57 94 -69  Number of satisfying literals: 1)
+Clause 169 has (92 -62 -4 -70  Number of satisfying literals: 1)
+Clause 170 has (120 -24 10  Number of satisfying literals: 1)
+Clause 171 has (74 49 58 -18  Number of satisfying literals: 2)
+Clause 172 has (-64 7 -5  Number of satisfying literals: 3)
+Clause 173 has (66 99 29 119  Number of satisfying literals: 1)
+Clause 174 has (-28 -53 62 -59  Number of satisfying literals: 3)
+Clause 175 has (-26 42 -86  Number of satisfying literals: 2)
+Clause 176 has (75 14 108 109  Number of satisfying literals: 1)
+Clause 177 has (-34 -46 80 115  Number of satisfying literals: 1)
+Clause 178 has (56 95 -42 -19  Number of satisfying literals: 2)
+Clause 179 has (10 -99 5 71  Number of satisfying literals: 2)
+Clause 180 has (14 61 -92 -35  Number of satisfying literals: 2)
+Clause 181 has (87 117 29  Number of satisfying literals: 1)
+Clause 182 has (-19 -87 4  Number of satisfying literals: 2)
+Clause 183 has (-81 47 52  Number of satisfying literals: 2)
+Clause 184 has (-122 105 6 94  Number of satisfying literals: 3)
+Clause 185 has (-8 35 15  Number of satisfying literals: 1)
+Clause 186 has (-105 23 104 25  Number of satisfying literals: 1)
+Clause 187 has (-45 -91 -9  Number of satisfying literals: 1)
+Clause 188 has (-122 97 -81 -113  Number of satisfying literals: 1)
+Clause 189 has (110 -55 5 -61  Number of satisfying literals: 2)
+Clause 190 has (-5 -66 84 79  Number of satisfying literals: 1)
+Clause 191 has (-48 -30 101  Number of satisfying literals: 1)
+Clause 192 has (-32 -1 -112 20  Number of satisfying literals: 1)
+Clause 193 has (-4 40 -64 -62  Number of satisfying literals: 2)
+Clause 194 has (112 -67 -95 -113  Number of satisfying literals: 2)
+Clause 195 has (-123 58 7 -103  Number of satisfying literals: 3)
+Clause 196 has (110 41 -115 94  Number of satisfying literals: 1)
+Clause 197 has (72 116 -105 -103  Number of satisfying literals: 1)
+Clause 198 has (-93 50 -54  Number of satisfying literals: 2)
+Clause 199 has (119 101 121 -10  Number of satisfying literals: 2)
+Clause 200 has (-99 73 -32 -76  Number of satisfying literals: 1)
+Clause 201 has (66 66 78 -100  Number of satisfying literals: 3)
+Clause 202 has (58 -111 -105 -20  Number of satisfying literals: 2)
+Clause 203 has (-35 116 105 101  Number of satisfying literals: 2)
+Clause 204 has (113 -84 -124  Number of satisfying literals: 2)
+Clause 205 has (-69 25 59  Number of satisfying literals: 2)
+Clause 206 has (-55 -33 -67 38  Number of satisfying literals: 1)
+Clause 207 has (-6 104 -72  Number of satisfying literals: 1)
+Clause 208 has (99 32 71 15  Number of satisfying literals: 3)
+Clause 209 has (-102 -104 -109 -7  Number of satisfying literals: 2)
+Clause 210 has (58 66 47 102  Number of satisfying literals: 3)
+Clause 211 has (5 -91 -62  Number of satisfying literals: 1)
+Clause 212 has (-117 58 48 -111  Number of satisfying literals: 1)
+Clause 213 has (-121 -39 -17 -74  Number of satisfying literals: 2)
+Clause 214 has (105 74 110  Number of satisfying literals: 3)
+Clause 215 has (-40 -72 -76  Number of satisfying literals: 2)
+Clause 216 has (-69 32 72 -98  Number of satisfying literals: 2)
+Clause 217 has (96 -103 -5  Number of satisfying literals: 3)
+Clause 218 has (120 -8 125  Number of satisfying literals: 2)
+Clause 219 has (38 85 -112 -48  Number of satisfying literals: 2)
+Clause 220 has (-54 -99 -44 -108  Number of satisfying literals: 1)
+Clause 221 has (24 -90 -112 115  Number of satisfying literals: 3)
+Clause 222 has (-15 96 -83  Number of satisfying literals: 2)
+Clause 223 has (67 78 -43 -70  Number of satisfying literals: 1)
+Clause 224 has (-62 -18 -53  Number of satisfying literals: 2)
+Clause 225 has (-58 -63 -102  Number of satisfying literals: 2)
+Clause 226 has (-12 30 -112  Number of satisfying literals: 2)
+Clause 227 has (41 36 116 -12  Number of satisfying literals: 2)
+Clause 228 has (53 35 76  Number of satisfying literals: 1)
+Clause 229 has (78 -69 124 -57  Number of satisfying literals: 1)
+Clause 230 has (-40 -15 109 109  Number of satisfying literals: 1)
+Clause 231 has (-42 80 -111 38  Number of satisfying literals: 3)
+Clause 232 has (-7 -82 72  Number of satisfying literals: 1)
+Clause 233 has (111 89 25  Number of satisfying literals: 1)
+Clause 234 has (21 91 23  Number of satisfying literals: 1)
+Clause 235 has (-29 60 92 -124  Number of satisfying literals: 1)
+Clause 236 has (-7 -53 -3  Number of satisfying literals: 1)
+Clause 237 has (-98 -60 107  Number of satisfying literals: 3)
+Clause 238 has (-122 64 23 -16  Number of satisfying literals: 2)
+Clause 239 has (86 55 67  Number of satisfying literals: 2)
+Clause 240 has (60 115 66  Number of satisfying literals: 2)
+Clause 241 has (-55 19 70 29  Number of satisfying literals: 1)
+Clause 242 has (14 -9 19 7  Number of satisfying literals: 1)
+Clause 243 has (-123 -85 -75  Number of satisfying literals: 3)
+Clause 244 has (63 -92 46  Number of satisfying literals: 2)
+Clause 245 has (-61 -86 -69  Number of satisfying literals: 2)
+Clause 246 has (-16 8 114 73  Number of satisfying literals: 3)
+Clause 247 has (-3 -34 52 -122  Number of satisfying literals: 2)
+Clause 248 has (49 -37 115  Number of satisfying literals: 2)
+Clause 249 has (84 -54 3 -16  Number of satisfying literals: 2)
+Clause 250 has (-11 37 119  Number of satisfying literals: 1)
+Clause 251 has (-84 99 -91 -92  Number of satisfying literals: 3)
+Clause 252 has (114 -107 -63  Number of satisfying literals: 2)
+Clause 253 has (37 -78 -73  Number of satisfying literals: 2)
+Clause 254 has (-48 -16 -90  Number of satisfying literals: 3)
+Clause 255 has (52 -6 98 -30  Number of satisfying literals: 1)
+Clause 256 has (-4 -94 -124 23  Number of satisfying literals: 2)
+Clause 257 has (-124 -80 24  Number of satisfying literals: 2)
+Clause 258 has (41 123 -58  Number of satisfying literals: 1)
+Clause 259 has (-77 67 -7 -78  Number of satisfying literals: 3)
+Clause 260 has (103 1 50 26  Number of satisfying literals: 1)
+Clause 261 has (-58 74 65 91  Number of satisfying literals: 2)
+Clause 262 has (-74 -79 -81 -99  Number of satisfying literals: 2)
+Clause 263 has (25 -101 116 2  Number of satisfying literals: 3)
+Clause 264 has (46 -55 17  Number of satisfying literals: 1)
+Clause 265 has (-121 -84 -62 66  Number of satisfying literals: 2)
+Clause 266 has (-70 96 -17  Number of satisfying literals: 2)
+Clause 267 has (71 37 55 21  Number of satisfying literals: 3)
+Clause 268 has (119 -99 -1 -3  Number of satisfying literals: 2)
+Clause 269 has (124 41 -12 43  Number of satisfying literals: 3)
+Clause 270 has (-114 26 -109  Number of satisfying literals: 1)
+Clause 271 has (-54 59 -5 50  Number of satisfying literals: 3)
+Clause 272 has (31 -85 -69  Number of satisfying literals: 2)
+Clause 273 has (60 -117 92 -85  Number of satisfying literals: 1)
+Clause 274 has (-124 -14 -26  Number of satisfying literals: 2)
+Clause 275 has (-46 -5 -20  Number of satisfying literals: 2)
+Clause 276 has (-7 -103 125  Number of satisfying literals: 2)
+Clause 277 has (4 -72 -41  Number of satisfying literals: 2)
+Clause 278 has (12 -25 -18  Number of satisfying literals: 1)
+Clause 279 has (47 123 -95  Number of satisfying literals: 2)
+Clause 280 has (-23 24 -37 85  Number of satisfying literals: 3)
+Clause 281 has (-26 -118 14  Number of satisfying literals: 1)
+Clause 282 has (-82 84 -21  Number of satisfying literals: 1)
+Clause 283 has (-16 -62 -86 -31  Number of satisfying literals: 2)
+Clause 284 has (116 -102 -104 111  Number of satisfying literals: 1)
+Clause 285 has (43 85 -41  Number of satisfying literals: 2)
+Clause 286 has (-121 103 -42  Number of satisfying literals: 1)
+Clause 287 has (-124 66 105 -94  Number of satisfying literals: 3)
+Clause 288 has (44 -92 15  Number of satisfying literals: 3)
+Clause 289 has (40 94 -6 81  Number of satisfying literals: 1)
+Clause 290 has (-37 23 -77  Number of satisfying literals: 2)
+Clause 291 has (-93 59 -45  Number of satisfying literals: 2)
+Clause 292 has (78 65 71 62  Number of satisfying literals: 2)
+Clause 293 has (-27 -21 -87 -15  Number of satisfying literals: 2)
+Clause 294 has (-123 120 33 94  Number of satisfying literals: 3)
+Clause 295 has (93 -85 73 33  Number of satisfying literals: 2)
+Clause 296 has (69 -66 1 -108  Number of satisfying literals: 1)
+Clause 297 has (-41 48 26 -91  Number of satisfying literals: 2)
+Clause 298 has (-19 76 14  Number of satisfying literals: 2)
+Clause 299 has (93 65 -18 -48  Number of satisfying literals: 2)
+Clause 300 has (-90 -9 -125  Number of satisfying literals: 1)

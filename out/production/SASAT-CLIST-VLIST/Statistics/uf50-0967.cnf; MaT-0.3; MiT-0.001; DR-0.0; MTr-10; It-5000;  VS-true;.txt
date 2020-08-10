@@ -1,0 +1,12 @@
+Variables: 50
+Clauses: 218File name: uf50-0967.cnf
+Max temperature is: 0.3
+Min temperature: 0.001
+Decay rate: 0.0
+Iterations: 5000
+Max_Tries: 10
+Concurrency: false
+Thread Utilisation: 1
+Pure literal: false
+Timeout: Off
+ 10

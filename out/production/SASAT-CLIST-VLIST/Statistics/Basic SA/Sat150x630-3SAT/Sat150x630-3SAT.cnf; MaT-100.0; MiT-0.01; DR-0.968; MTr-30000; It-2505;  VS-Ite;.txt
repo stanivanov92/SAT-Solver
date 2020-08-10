@@ -1,0 +1,13 @@
+Variables: 150
+Clauses: 630File name: Sat150x630-3SAT.cnf
+Max temperature is: 100.0
+Min temperature: 0.01
+Decay rate: 0.968
+Iterations: 2505
+Max_Tries: 30000
+Concurrency: false
+Thread Utilisation: 1
+Pure literal: false
+Variable selection: Iterative
+Timeout: 120000 ms
+1 1541

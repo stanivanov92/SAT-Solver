@@ -1,0 +1,13 @@
+Variables: 5
+Clauses: 6File name: Sat5x6-3SAT.cnf
+Max temperature is: 0.3
+Min temperature: 0.001
+Decay rate: 0.02
+Iterations: 500
+Max_Tries: 8
+Concurrency: false
+Available threads: 8
+Pure literal: false
+Variable selection: Iterative
+----------------------------------------------------
+1 8
