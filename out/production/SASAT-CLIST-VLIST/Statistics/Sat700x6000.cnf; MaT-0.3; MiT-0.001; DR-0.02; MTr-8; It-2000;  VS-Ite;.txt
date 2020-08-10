@@ -1,0 +1,13 @@
+Variables: 700
+Clauses: 4000File name: Sat700x6000.cnf
+Max temperature is: 0.3
+Min temperature: 0.001
+Decay rate: 0.02
+Iterations: 2000
+Max_Tries: 8
+Concurrency: false
+Thread Utilisation: 1
+Pure literal: false
+Variable selection: Iterative
+Timeout: Off
+1 9345

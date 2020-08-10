@@ -1,0 +1,13 @@
+Variables: 100
+Clauses: 960File name: SonyBench.cnf
+Max temperature is: 0.3
+Min temperature: 0.0015
+Decay rate: 0.02
+Iterations: 5000
+Max_Tries: 10
+Concurrency: false
+Available threads: 8
+Pure literal: false
+Variable selection: Iterative
+----------------------------------------------------
+1 48

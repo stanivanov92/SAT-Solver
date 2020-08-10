@@ -1,0 +1,7 @@
+Max_Tries: 8
+Concurrency: true
+Available threads: 8
+Pure literal: true
+Variable selection: Iterative
+Thread utilisation: 4
+5143

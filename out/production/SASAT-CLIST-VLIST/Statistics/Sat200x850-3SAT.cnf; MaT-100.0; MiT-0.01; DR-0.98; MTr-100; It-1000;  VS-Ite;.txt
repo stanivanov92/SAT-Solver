@@ -1,0 +1,13 @@
+Variables: 200
+Clauses: 850File name: Sat200x850-3SAT.cnf
+Max temperature is: 100.0
+Min temperature: 0.01
+Decay rate: 0.98
+Iterations: 1000
+Max_Tries: 100
+Concurrency: false
+Thread Utilisation: 1
+Pure literal: false
+Variable selection: Iterative
+Timeout: 120000 ms
+1 Solution not found: 63231ms

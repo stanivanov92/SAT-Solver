@@ -1,0 +1,36 @@
+File name: Sat200x850-3SAT.cnf
+Max temperature is: 0.3
+Min temperature: 0.001
+Decay rate: 0.02
+Iterations: 3200
+Max_Tries: 10
+Concurrency: true
+Available threads: 8
+Pure literal: true
+Variable selection: Iterative
+----------------------------------------------------
+1 1006
+2 930
+3 535
+4 726
+5 3291
+6 1171
+7 1518
+8 2297
+9 2035
+10 785
+11 450
+12 2061
+13 779
+14 948
+15 649
+16 490
+17 195
+18 383
+19 1826
+20 608
+21 568
+22 406
+23 78
+24 262
+25 216

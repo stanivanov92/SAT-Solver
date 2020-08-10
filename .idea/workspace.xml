@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b70a1de-6034-4e1e-96d7-b037d18817de" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/FrontEndParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FrontEndParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Statistics/Benchmark1-Sony.cnf-2020-06-08-19:38:13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Statistics/Benchmark2-Sony.cnf-2020-06-08-19:42:39.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Statistics/Benchmark3-Sony.cnf-2020-06-08-19:43:29.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Statistics/Benchmark4-Sony.cnf-2020-06-08-19:49:41.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Statistics/CompetitionResults.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Statistics/Sat375x1575-3SAT.cnf-2020-06-08-19:51:58.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Statistics/Sat425x1750-3SAT.cnf-2020-06-08-19:53:43.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Statistics/Sat450x1890-3SAT.cnf-2020-06-08-19:56:04.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Statistics/Sat500x2100-3SAT.cnf-2020-06-08-19:59:03.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Statistics/benchmark_1-Lisa.cnf-2020-06-08-19:26:40.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Statistics/benchmark_2-Lisa.cnf-2020-06-08-19:28:16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Statistics/benchmark_3-Lisa.cnf-2020-06-08-19:32:26.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Statistics/benchmark_4-Lisa.cnf-2020-06-08-19:32:32.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Help.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Help.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Help.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Help.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Parser.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Parser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SASAT$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SASAT$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SASAT$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SASAT.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/SASAT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SASAT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SASAT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SimulatedAnnealingSolver.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimulatedAnnealingSolver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SimulatedAnnealingSolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimulatedAnnealingSolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Basic SA/Sat150x630-3SAT/Sat150x630-3SAT.cnf; MaT-100.0; MiT-0.01; DR-0.968; MTr-30000; It-2501;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Basic SA/Sat150x630-3SAT/Sat150x630-3SAT.cnf; MaT-100.0; MiT-0.01; DR-0.968; MTr-30000; It-2502;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Basic SA/Sat150x630-3SAT/Sat150x630-3SAT.cnf; MaT-100.0; MiT-0.01; DR-0.968; MTr-30000; It-2503;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Basic SA/Sat150x630-3SAT/Sat150x630-3SAT.cnf; MaT-100.0; MiT-0.01; DR-0.968; MTr-30000; It-2504;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Basic SA/Sat150x630-3SAT/Sat150x630-3SAT.cnf; MaT-100.0; MiT-0.01; DR-0.968; MTr-30000; It-2505;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Basic SA/Sat150x630-3SAT/Sat150x630-3SAT.cnf; MaT-100.0; MiT-0.01; DR-0.968; MTr-30000; It-2506;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Basic SA/Sat150x630-3SAT/Sat150x630-3SAT.cnf; MaT-100.0; MiT-0.01; DR-0.968; MTr-30000; It-2507;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Basic SA/Sat150x630-3SAT/Sat150x630-3SAT.cnf; MaT-100.0; MiT-0.01; DR-0.968; MTr-30000; It-2508;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Basic SA/Sat150x630-3SAT/Sat150x630-3SAT.cnf; MaT-100.0; MiT-0.01; DR-0.968; MTr-30000; It-2509;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Basic SA/Sat150x630-3SAT/Sat150x630-3SAT.cnf; MaT-100.0; MiT-0.01; DR-0.968; MTr-30000; It-2510;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat100x420-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-10; It-3200; -p; VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat100x420-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-3600;  VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat100x420-4SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-10; It-3200; -p; VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat150x530-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-10; It-3200; -p; VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat150x630-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-10; It-3200; -p; VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat150x630-3SAT.cnf; MaT-0.4; MiT-0.01; DR-0.02; MTr-575; It-3500; -p; VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat150x630-3SAT.cnf; MaT-0.4; MiT-0.01; DR-0.0; MTr-575; It-3500; -p; VS-false; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat150x630-4SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-10; It-3200; -p; VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat200x850-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-10; It-3200; -p; VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat200x850-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-2000; -p; VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat200x850-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-3600;  VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat200x850-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-3600;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat200x850-3SAT.cnf; MaT-100.0; MiT-0.01; DR-0.98; MTr-100; It-1000;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat200x850-4SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-10; It-3200; -p; VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat250x1070-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-10; It-3200; -p; VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat250x1070-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-3600;  VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat250x1070-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-5000;  VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat250x1070-3SAT.cnf; MaT-0.4; MiT-0.01; DR-0.02; MTr-575; It-3500; -p; VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat300x1260-3SAT.cnf; MaT-0.3; MiT-0.0015; DR-0.02; MTr-10; It-5000;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat300x1260-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-10; It-5000;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat300x1260-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-3600;  VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat300x1260-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-4000;  VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat300x1260-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-5000;  VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat300x1260-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-5000;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat350x1400-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-5000;  VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat350x1470-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-5000;  VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat350x1470-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-5000;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat4x3-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-5000;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat500x1200-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-5000;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat500x2000-3SAT.cnf; MaT-0.25; MiT-0.001; DR-0.02; MTr-7; It-2500; -p; VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat500x2000-3SAT.cnf; MaT-0.25; MiT-0.001; DR-0.02; MTr-8; It-2500; -p; VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat500x2000-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-10; It-2000;  VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat500x2000-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-10; It-2000;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat500x2000-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-10; It-2000; -p; VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat500x2000-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-10; It-2111; -p; VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat500x2000-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-1000;  VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat500x2000-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-1000;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat500x2000-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-100;  VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat500x2000-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-2000;  VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat500x2000-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-2000;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat500x2000-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-2000; -p; VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat500x2000-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-2000; -p; VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat500x2000-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-2500; -p; VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat500x2000-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-2500; -p; VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat500x2000-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-5000;  VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat500x2000-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-5000;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat500x2000-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-500;  VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat500x2000-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-500;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat500x2000-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-700;  VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat500x2000-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-700;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat500x2000-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-700; -p; VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat500x2000-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-700; -p; VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat500x2000.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-10; It-5000;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat500x2000.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-10; It-5000; -p; VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat500x2000.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-10; It-5000; -p; VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat500x2100-3SAT.cnf; MaT-0.301; MiT-0.001; DR-0.02; MTr-8; It-2000;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat500x2100-3SAT.cnf; MaT-0.301; MiT-0.001; DR-0.02; MTr-8; It-2000; -p; VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat500x2100-3SAT.cnf; MaT-0.301; MiT-0.001; DR-0.02; MTr-8; It-2000; -p; VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat500x2100-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-2000;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat500x2100-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-2000; -p; VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat500x2100-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-2000; -p; VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat550x2310-3SAT.cnf; MaT-0.24; MiT-0.001; DR-0.02; MTr-8; It-3400; -p; VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat550x2310-3SAT.cnf; MaT-0.24; MiT-0.001; DR-0.02; MTr-8; It-3800; -p; VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat550x2310-3SAT.cnf; MaT-0.301; MiT-0.001; DR-0.02; MTr-8; It-2000;  VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat550x2310-3SAT.cnf; MaT-0.301; MiT-0.001; DR-0.02; MTr-8; It-2000; -p; VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat550x2310-3SAT.cnf; MaT-0.301; MiT-0.001; DR-0.02; MTr-8; It-2000; -p; VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat550x2310-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-2000;  VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat550x2310-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-2000; -p; VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat5x6-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-5000;  VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat5x6-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-5000;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat5x6-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-500;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat600x2500-3SAT.cnf; MaT-0.24; MiT-0.001; DR-0.02; MTr-8; It-3400; -p; VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat600x2500-3SAT.cnf; MaT-0.24; MiT-0.001; DR-0.02; MTr-8; It-3800; -p; VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat600x2500-3SAT.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-575; It-3000; -p; VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat700x6000.cnf; MaT-0.2; MiT-0.001; DR-0.02; MTr-8; It-2500;  VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat700x6000.cnf; MaT-0.2; MiT-0.001; DR-0.02; MTr-8; It-6000;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat700x6000.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-2000;  VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat700x6000.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-2000;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat700x6000.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-2000; -p; VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat700x6000.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-2000; -p; VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat700x6000.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-2500;  VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat700x6000.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-2500;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat700x6000.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-2500; -p; VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat700x6000.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-2500; -p; VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat700x6000.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-3600;  VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat700x6000.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-3600;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat700x6000.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-5000;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat700x6000.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-500;  VS-Ite; -c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/Sat700x6000.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-8; It-500;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/SonyBench.cnf; MaT-0.3; MiT-0.0015; DR-0.02; MTr-10; It-5000;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/SonyBench.cnf; MaT-0.3; MiT-0.001; DR-0.02; MTr-10; It-5000;  VS-Ite;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VariableSelectMethod.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="ProjectId" id="1aSC6UrC96JAiYHt8dKdhj63FYq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../IdeaProjects/BenchMark" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b70a1de-6034-4e1e-96d7-b037d18817de" name="Default Changelist" comment="" />
+      <created>1586719432589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586719432589</updated>
+      <workItem from="1586719705269" duration="6033000" />
+      <workItem from="1586728607108" duration="10229000" />
+      <workItem from="1586962971440" duration="1531000" />
+      <workItem from="1586964851915" duration="59160000" />
+      <workItem from="1587135298426" duration="23582000" />
+      <workItem from="1587214427888" duration="35282000" />
+      <workItem from="1587391715455" duration="5929000" />
+      <workItem from="1587410023867" duration="6551000" />
+      <workItem from="1587507107598" duration="7897000" />
+      <workItem from="1587563344172" duration="14807000" />
+      <workItem from="1587659507555" duration="8744000" />
+      <workItem from="1587729870592" duration="392000" />
+      <workItem from="1587857450050" duration="414000" />
+      <workItem from="1588159918875" duration="13085000" />
+      <workItem from="1588683023872" duration="2000" />
+      <workItem from="1588683040921" duration="25000" />
+      <workItem from="1591357296981" duration="4855000" />
+      <workItem from="1591616463896" duration="4371000" />
+      <workItem from="1591637962516" duration="5454000" />
+      <workItem from="1592001537009" duration="6000" />
+      <workItem from="1592391287198" duration="5000" />
+      <workItem from="1592494827740" duration="6000" />
+      <workItem from="1592495045861" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587663022632">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1587663022632" />
+    <state x="801" y="256" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1588164497343">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="801" y="256" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1588164497343" />
+    <state x="167" y="125" width="1653" height="855" key="DiffContextDialog" timestamp="1587730054740">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="167" y="125" width="1653" height="855" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1587730054740" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1591626375374">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1591626375374" />
+    <state x="476" y="130" width="1024" height="845" key="SettingsEditor" timestamp="1587663038729">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="476" y="130" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1587663038729" />
+    <state x="649" y="380" width="688" height="326" key="com.intellij.ide.util.TipDialog" timestamp="1592495045982">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" width="688" height="326" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1592495045982" />
+    <state x="647" y="170" width="683" height="764" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588166508966">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="647" y="170" width="683" height="764" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1588166508966" />
+    <state x="726" y="316" width="524" height="472" key="extract.method.dialog" timestamp="1588173813237">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="726" y="316" width="524" height="472" key="extract.method.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1588173813237" />
+    <state x="657" y="253" key="run.anything.popup" timestamp="1587660303396">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="657" y="253" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1587660303396" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1587219406179">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1587219406179" />
+  </component>
+</project>

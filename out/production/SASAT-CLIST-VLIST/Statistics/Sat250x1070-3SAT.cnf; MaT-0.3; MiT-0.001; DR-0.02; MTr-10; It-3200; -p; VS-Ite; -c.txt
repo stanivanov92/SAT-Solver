@@ -1,0 +1,36 @@
+File name: Sat250x1070-3SAT.cnf
+Max temperature is: 0.3
+Min temperature: 0.001
+Decay rate: 0.02
+Iterations: 3200
+Max_Tries: 10
+Concurrency: true
+Available threads: 8
+Pure literal: true
+Variable selection: Iterative
+----------------------------------------------------
+1 11900
+2 4192
+3 23201
+4 3785
+5 6198
+6 77909
+7 81271
+8 5622
+9 23654
+10 1855
+11 22992
+12 1304
+13 7064
+14 22853
+15 7437
+16 7688
+17 15842
+18 7428
+19 42684
+20 4393
+21 46120
+22 22163
+23 8086
+24 6772
+25 8438

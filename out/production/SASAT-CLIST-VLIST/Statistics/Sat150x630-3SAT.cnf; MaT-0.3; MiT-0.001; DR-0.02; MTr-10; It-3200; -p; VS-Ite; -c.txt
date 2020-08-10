@@ -1,0 +1,36 @@
+File name: Sat150x630-3SAT.cnf
+Max temperature is: 0.3
+Min temperature: 0.001
+Decay rate: 0.02
+Iterations: 3200
+Max_Tries: 10
+Concurrency: true
+Available threads: 8
+Pure literal: true
+Variable selection: Iterative
+----------------------------------------------------
+1 38
+2 21
+3 22
+4 51
+5 97
+6 112
+7 81
+8 102
+9 4
+10 71
+11 16
+12 49
+13 56
+14 18
+15 32
+16 21
+17 19
+18 85
+19 95
+20 109
+21 66
+22 155
+23 49
+24 31
+25 203

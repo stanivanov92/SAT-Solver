@@ -1,0 +1,4 @@
+Sat375x1575-3SAT.cnf - SAT
+Sat400x1680-3SAT.cnf - SAT
+Sat425x1575-3SAT.cnf - SAT
+Sat500x2100-3SAT.cnf - SAT
