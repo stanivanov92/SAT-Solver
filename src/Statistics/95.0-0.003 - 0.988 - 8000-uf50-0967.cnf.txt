@@ -1,0 +1,1 @@
+1. Solution was found after: 65632921 flips, taking 7699msratio: 0.7585776835661269 attempts: 86521028

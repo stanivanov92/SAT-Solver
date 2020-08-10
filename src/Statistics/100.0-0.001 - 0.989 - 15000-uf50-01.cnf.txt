@@ -1,0 +1,5 @@
+1. Solution not found: 35545ms
+2. Solution not found: 35433ms
+3. Solution not found: 35525ms
+4. Solution was found after: 129128942 flips, taking 15585msratio: 0.7543342239375361 attempts: 171182664
+5. Solution was found after: 140321860 flips, taking 16973msratio: 0.7550460088494072 attempts: 185845443

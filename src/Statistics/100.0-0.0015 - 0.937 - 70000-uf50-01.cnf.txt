@@ -1,0 +1,5 @@
+1. Solution was found after: 143562316 flips, taking 17688msratio: 0.7619687147253147 attempts: 188409725
+2. Solution not found: 40092ms
+3. Solution not found: 39364ms
+4. Solution was found after: 253765298 flips, taking 30336msratio: 0.7603122407987788 attempts: 333764583
+5. Solution not found: 39476ms
