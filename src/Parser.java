@@ -125,18 +125,6 @@ public class Parser {
         return clausesList;
     }
 
-    private boolean verifyFile(File file) {
-        return file != null && file.exists() && !file.isDirectory();
-    }
-
-    private void initialiseScanner(File file) {
-        try {
-            fileReader = new Scanner(file);
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
-        }
-    }
-
     private void printClause() {
         for (int i = 1; i < clausesList.length; i++) {
             System.out.print("Clause " + i + ": (");
@@ -243,4 +231,17 @@ public class Parser {
     public HashSet<Integer> getListPureVariables() {
         return listPureVariables;
     }
+
+    private boolean verifyFile(File file) {
+        return file != null && file.exists() && !file.isDirectory();
+    }
+
+    private void initialiseScanner(File file) {
+        try {
+            fileReader = new Scanner(file);
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        }
+    }
+
 }
